@@ -1,4 +1,4 @@
--- Written by LegoHacks™️
+-- Written by Mr_SarroxD#6174™️
 -- Ghille is a retard: https://sperg.club/uploads/Ujq7edxbnYnkgUEc.png
 
 local client = game:GetService("Players").LocalPlayer;

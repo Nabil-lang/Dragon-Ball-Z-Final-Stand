@@ -1,2 +1,2 @@
-# Dragon-Ball-Z-Final-Stand
-DBZFS scripts.
+# Public-scripts
+and leaked shits
